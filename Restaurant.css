@@ -1,0 +1,39 @@
+.A {
+    height: 360px;
+    width: 540px;
+}
+
+.F {
+    height: 573px;
+    width: 367px;
+}
+
+.P {
+    height: 300px;
+    width: 300px;
+}
+
+.L {
+    width: 333px;
+    height: 250;
+}
+
+body {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    /* justify-self: center; */
+    font-family: cursive;
+    }
+
+.Appertizers {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.Header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
